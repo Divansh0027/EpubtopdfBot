@@ -1,2 +1,2 @@
 # EpubtopdfBot
-conert epub file to pdf
+convert epub file to pdf
