@@ -1,2 +1,3 @@
 python-telegram-bot
-requests
+Eubtopdf0027Bot
+request
